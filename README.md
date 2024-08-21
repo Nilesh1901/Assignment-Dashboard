@@ -5,5 +5,5 @@
 1. Install the dependencies:
    npm Install
 
-2. To start the Project
+2. To start the Project:
    npm run dev
